@@ -7,4 +7,4 @@
 - The CoinDesk API to retrieve all data
 - ChartJS.org to display your time-series charts
 
-![Crypto Charting Tool](Crypto Charting.PNG)
+![Crypto Charting Tool](/Crypto Charting.PNG)
